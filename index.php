@@ -144,9 +144,11 @@
             <span class="span">High Quality</span> Pet Food
           </h1>
 
-          <p class="hero-text">Sale up to 40% off today</p>
+          <p class="hero-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi tempore aliquid, 
+            aperiam quidem quisquam sed magnam sit laborum. D
+            icta nam perferendis doloribus eaque est at assumenda illo nemo possimus alias.</p>
 
-          <a href="#" class="btn">Shop Now</a>
+          <a href="#shop" class="btn">Shop Now</a>
 
         </div>
       </section>
@@ -172,7 +174,7 @@
               <div class="category-card">
 
                 <figure class="card-banner img-holder" style="--width: 330; --height: 300;">
-                  <img src="./assets/images/category-1.jpg" width="330" height="300" loading="lazy" alt="Cat Food"
+                  <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR77euRIH3YcRYXVkA1igx-kqOGIbveq8PVDzRn2GOIT2W1P18UdELM6_i3jARe4A-0sSA50mjVKyRpAg8WERuU1b8LiL2EJaBL4LcJJmq8_Ub1A4YHZmysIw&usqp=CAE" width="330" height="300" loading="lazy" alt="Cat Food"
                     class="img-cover">
                 </figure>
 
@@ -187,7 +189,7 @@
               <div class="category-card">
 
                 <figure class="card-banner img-holder" style="--width: 330; --height: 300;">
-                  <img src="./assets/images/category-2.jpg" width="330" height="300" loading="lazy" alt="Cat Toys"
+                  <img src="https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1siGh0qG97GBMF8J_Qj2rAoFrD2b07_F6b9FgIPhgG635j8rDzHzOp834YXIIgj1tXdiI4Fv9DhE5w9rOkz0x3nL8SFLm6IYc4VFD1p1XvjkoQqYVg8Rx7g&usqp=CAE" width="330" height="300" loading="lazy" alt="Cat Toys"
                     class="img-cover">
                 </figure>
 
@@ -202,7 +204,7 @@
               <div class="category-card">
 
                 <figure class="card-banner img-holder" style="--width: 330; --height: 300;">
-                  <img src="./assets/images/category-3.jpg" width="330" height="300" loading="lazy" alt="Dog Food"
+                  <img src="https://cdn0.woolworths.media/content/wowproductimages/large/065367.jpg" width="330" height="300" loading="lazy" alt="Dog Food"
                     class="img-cover">
                 </figure>
 
@@ -217,7 +219,7 @@
               <div class="category-card">
 
                 <figure class="card-banner img-holder" style="--width: 330; --height: 300;">
-                  <img src="./assets/images/category-4.jpg" width="330" height="300" loading="lazy" alt="Dog Toys"
+                  <img src="https://cdn-images.vetstreet.com/66/76/7a71c5e8413fa0ce1dea24d19fc7/puppy-with-chew-toy-thinkstockphotos-476792666-335.jpg" width="330" height="300" loading="lazy" alt="Dog Toys"
                     class="img-cover">
                 </figure>
 
@@ -232,12 +234,12 @@
               <div class="category-card">
 
                 <figure class="card-banner img-holder" style="--width: 330; --height: 300;">
-                  <img src="./assets/images/category-5.jpg" width="330" height="300" loading="lazy"
+                  <img src="https://topdogtips.com/wp-content/uploads/2021/03/Nature-Vet-Dog-Supplement.jpg" width="330" height="300" loading="lazy"
                     alt="Dog Sumpplements" class="img-cover">
                 </figure>
 
                 <h3 class="h3">
-                  <a href="#" class="card-title">Dog Sumpplements</a>
+                  <a href="#" class="card-title">Dog Supplements</a>
                 </h3>
 
               </div>
@@ -264,7 +266,7 @@
         <div class="container">
 
           <h2 class="h2 section-title">
-            <span class="span">Best</span> Seller
+            <span class="span">Products</span> 
           </h2>
 
           <ul class="grid-list">
@@ -298,10 +300,10 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">Ultamino</a>
+                    <a href="#" class="card-title">Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse commodi ratione nisi, velit architecto itaque asperiores ut laudantium illo dolorem nostrum culpa voluptas labore earum eius voluptatem impedit placeat magnam?</a>
                   </h3>
 
-                  <data class="card-price" value="15">$15.00</data>
+                  <data class="card-price" value="15">$0</data>
 
                 </div>
 
@@ -337,10 +339,10 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">Shrimp Pellets</a>
+                    <a href="#" class="card-title">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, cum quas illo eaque nulla est non provident reiciendis odit incidunt quia asperiores doloribus commodi ducimus delectus, accusamus aut! Quidem, quae.</a>
                   </h3>
 
-                  <data class="card-price" value="45">$45.00</data>
+                  <data class="card-price" value="45">$0</data>
 
                 </div>
 
@@ -376,10 +378,10 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">Wardley shrimp pellet formula</a>
+                    <a href="#" class="card-title">Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, eaque quos fugiat natus tempora perspiciatis, dolorum nemo quas nisi magni odio laudantium fugit, maiores obcaecati porro voluptatum temporibus numquam molestiae.</a>
                   </h3>
 
-                  <data class="card-price" value="45">$45.00</data>
+                  <data class="card-price" value="45">$0</data>
 
                 </div>
 
@@ -415,10 +417,10 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">Fruit blend</a>
+                    <a href="#" class="card-title">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit expedita adipisci nostrum facilis aperiam. Quasi dolore fuga cum quidem soluta. Facilis, neque numquam debitis possimus suscipit voluptates dolorum perferendis nesciunt.</a>
                   </h3>
 
-                  <data class="card-price" value="49">$49.00</data>
+                  <data class="card-price" value="49">$0</data>
 
                 </div>
 
@@ -454,10 +456,10 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">Animal toy</a>
+                    <a href="#" class="card-title">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure autem totam debitis quaerat. Qui eveniet consectetur amet quia voluptas aspernatur, impedit enim ipsum! Placeat repudiandae quaerat autem, atque quisquam hic?</a>
                   </h3>
 
-                  <data class="card-price" value="85">$85.00</data>
+                  <data class="card-price" value="85">$0</data>
 
                 </div>
 
@@ -493,10 +495,10 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">Comfort Zoue</a>
+                    <a href="#" class="card-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum architecto culpa voluptate magnam, harum labore cupiditate. Error temporibus ipsam, nisi quo sint mollitia eum facilis eius laborum commodi fugit quia.</a>
                   </h3>
 
-                  <data class="card-price" value="85">$85.00</data>
+                  <data class="card-price" value="85">$0</data>
 
                 </div>
 
@@ -532,10 +534,10 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">Proplan veterinary Diels</a>
+                    <a href="#" class="card-title">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla nemo labore illum repellat doloribus. Itaque sed provident consectetur aspernatur labore doloremque tenetur odit, assumenda dolore, quisquam harum ipsum eum eligendi.</a>
                   </h3>
 
-                  <data class="card-price" value="85">$85.00</data>
+                  <data class="card-price" value="85">$0</data>
 
                 </div>
 
@@ -571,10 +573,10 @@
                   </div>
 
                   <h3 class="h3">
-                    <a href="#" class="card-title">Pets multicare</a>
+                    <a href="#" class="card-title">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Architecto, labore. Sint aspernatur cumque architecto dolores at eum doloribus provident a deleniti, culpa nisi totam eos maxime necessitatibus non, quisquam praesentium!</a>
                   </h3>
 
-                  <data class="card-price" value="55">$55.00</data>
+                  <data class="card-price" value="55">$0</data>
 
                 </div>
 
