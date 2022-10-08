@@ -141,7 +141,7 @@
         <div class="container">
 
           <h1 class="h1 hero-title">
-            <span class="span">High Quality</span> Pet Food
+            <span class="span">We care about your</span> PETS
           </h1>
 
           <p class="hero-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi tempore aliquid, 
