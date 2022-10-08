@@ -645,14 +645,7 @@
       </div>
     </div>
 
-    <div class="footer-bottom">
-      <div class="container">
-
-
-        <img src="./assets/images/payment.png" width="397" height="32" loading="lazy" alt="payment method" class="img">
-
-      </div>
-    </div>
+    
 
   </footer>
 
